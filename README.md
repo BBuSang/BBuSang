@@ -42,12 +42,6 @@ AI 파이프라인 설계부터 백엔드·인프라 구축까지, 서비스 전
 | [**Gym Churn Prediction**](https://github.com/BBuSang/gym-churn-prediction) | 헬스장 이탈 예측 Stacking Ensemble | **F1 0.74 → 0.92** | scikit-learn, XGBoost, LightGBM |
 | [Planner4U](https://github.com/BBuSang/Planner4U) | 팀 일정 관리 웹 서비스 (WebSocket 실시간 채팅) | — | Spring Boot, Spring Security, WebSocket |
 
----
-
-### 📊 GitHub Stats
-
-![Nahoseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBuSang&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBuSang&layout=compact&theme=default)
 
 ---
 
