@@ -37,9 +37,9 @@ AI 파이프라인 설계부터 백엔드·인프라 구축까지, 서비스 전
 
 | 프로젝트 | 설명 | 주요 성과 | 기술 |
 | --- | --- | --- | --- |
-| [**ARAE**]([https://github.com/BBuSang/ARAE](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-3TEAM)) | AI 건축 도면 분석 플랫폼 — CV + RAG + sLLM 멀티 에이전트 | Topology **88.7/100** · 토큰 95%→48% · 응답 10s→1s | Spring Boot, FastAPI, pgvector, YOLOv5, Qwen3-8B, vLLM |
-| [**청년 정책 AI 챗봇**]([https://github.com/BBuSang/youth-policy-chatbot](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-1TEAM)) | GPT-4o-mini 기반 정책 추천 RAG 챗봇 | 하이브리드 검색 (벡터+BM25+RRF) | Django, ChromaDB, RAG |
-| [**Gym Churn Prediction**]([https://github.com/BBuSang/gym-churn-prediction](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-2TEAM)) | 헬스장 이탈 예측 Stacking Ensemble | **F1 0.74 → 0.92** | scikit-learn, XGBoost, LightGBM |
+| [**ARAE**](https://github.com/BBuSang/ARAE](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-3TEAM)) | AI 건축 도면 분석 플랫폼 — CV + RAG + sLLM 멀티 에이전트 | Topology **88.7/100** · 토큰 95%→48% · 응답 10s→1s | Spring Boot, FastAPI, pgvector, YOLOv5, Qwen3-8B, vLLM |
+| [**청년 정책 AI 챗봇**](https://github.com/BBuSang/youth-policy-chatbot](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-1TEAM)) | GPT-4o-mini 기반 정책 추천 RAG 챗봇 | 하이브리드 검색 (벡터+BM25+RRF) | Django, ChromaDB, RAG |
+| [**Gym Churn Prediction**](https://github.com/BBuSang/gym-churn-prediction](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-2TEAM)) | 헬스장 이탈 예측 Stacking Ensemble | **F1 0.74 → 0.92** | scikit-learn, XGBoost, LightGBM |
 | [Planner4U](https://github.com/BBuSang/Planner4U) | 팀 일정 관리 웹 서비스 (WebSocket 실시간 채팅) | — | Spring Boot, Spring Security, WebSocket |
 
 
